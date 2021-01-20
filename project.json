@@ -1,0 +1,15 @@
+{
+  "name": "@wolfe-labs/Screenmancy",
+  "description": "🖥️ UI library for Dual Universe screen elements",
+  "sourcePath": "src",
+  "outputPath": "out",
+  "libs": [
+    {
+      "id": "@wolfe-labs/Core",
+      "path": "libs\\@wolfe-labs\\Core",
+      "remote": {
+        "git": "https://github.com/wolfe-labs/DU-Core"
+      }
+    }
+  ]
+}
